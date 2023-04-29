@@ -1,5 +1,7 @@
 # Wormate.io zoom hack on mouse wheel scroll
 
+NOTE: Updated 2023-04-29 and works
+
 Allows you to zoom in/ out using mouse wheel
 
 ## Installation
